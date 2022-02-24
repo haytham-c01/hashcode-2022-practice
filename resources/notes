@@ -1,0 +1,10 @@
+
+you decided to offer only one type of pizza
+======
+Each client will come to your pizzeria if both conditions are true:
+
+all the ingredients they like are on the pizza, and
+none of the ingredients they dislike are on the pizza
+Each client is OK with additional ingredients they neither like or dislike being present on the pizza
+
+======
